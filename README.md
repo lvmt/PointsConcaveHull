@@ -254,3 +254,10 @@ plt.show()
 ![alt text](imgs/overlay.png) 
 
 图片来源：Spatially resolved multi-omics deciphers bidirectional tumor-host interdependence in glioblastoma
+
+---
+# 可视化  
+
+通过该app，可以快速了解各种方法的组织分割效果。 
+
+![alt text](imgs/app.png)
